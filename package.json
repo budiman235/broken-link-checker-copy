@@ -1,10 +1,10 @@
 {
-  "name": "broken-link-checker",
-  "description": "Find broken links, missing images, etc in your HTML.",
+  "name": "broken-link-checker-copy",
+  "description": "This is a fork of stevenvachon/broken-link-checker",
   "version": "0.7.8",
   "license": "MIT",
-  "author": "Steven Vachon <contact@svachon.com> (https://www.svachon.com/)",
-  "repository": "stevenvachon/broken-link-checker",
+  "author": "Simon Kobes",
+  "repository": "budiman235/broken-link-checker-copy",
   "main": "lib",
   "bin": {
     "blc": "bin/blc",
